@@ -69,7 +69,14 @@ body{
     margin-bottom: 25px;
 }
 
-.table-container{}
+/*Table */
+
+.table-container{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 0;
+    border-bottom: 0;
+}
 
 /*Block dividers*/
 
