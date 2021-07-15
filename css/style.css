@@ -13,6 +13,8 @@ body{
     padding: 5px 15px;
     background-color: #eec802;
     border-color: #eec802;
+    border: 1px solid transparent;
+    color: #544600
 }
 
 .callout-container{ 
@@ -137,4 +139,6 @@ body{
 .btn--red:active:focus {
     background-color: #df4929;
     border-color: #df4929;
+    color: white;
+
 }
